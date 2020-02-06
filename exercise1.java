@@ -15,7 +15,7 @@ public class exercise1 {
 		System.out.println("the area is " + area);
 		
 	}
-	
+	///////////////////
 	public static double circleArea ( double radius) {
 		
 		double area = 3.14 * radius*radius;
